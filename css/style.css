@@ -1,0 +1,12 @@
+body{
+    background: lightpink;
+}
+#a {
+    background: powderblue;
+    text-align: center;
+    color: darkslategrey;
+    padding-top: 5%;padding-bottom: 5%;
+    padding-left: 5%;padding-right: 5%;
+    margin-top: 10%;margin-bottom: 10%; 
+    margin-left: 30%;margin-right: 30%;
+}

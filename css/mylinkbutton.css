@@ -1,0 +1,11 @@
+a:link, a:visited{
+    background-color: peru;
+    color: yellow;
+    padding: 2% 2%;
+    margin-top: 3%;
+    text-align: center;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: lightpink;
+}

@@ -1,0 +1,16 @@
+a:link {
+    color: greenyellow;
+}
+a:visited {
+    color: teal;
+}
+a:hover {
+    color: salmon;
+}
+a:active {
+    color: navy;
+}
+body{
+    background-color: peachpuff;
+    color: navy;
+}
